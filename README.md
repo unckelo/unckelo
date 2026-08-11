@@ -27,14 +27,3 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,postgres,docker,linux,git,bash,vscode,figma&theme=dark" />
   </a>
 </p>
-### 📊 Achievements & Activity
-
-<!-- Dynamic Trophy Wall -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unckelo&theme=dracula&margin-w=15" alt="Trophies" />
-</p>
-
-<!-- Live Commit Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unckelo&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
