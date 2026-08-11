@@ -27,3 +27,9 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,postgres,docker,linux,git,bash,vscode,figma&theme=dark" />
   </a>
 </p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
