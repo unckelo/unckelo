@@ -27,14 +27,3 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,postgres,docker,linux,git,bash,vscode,figma&theme=dark" />
   </a>
 </p>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unckelo&show_icons=true&theme=dracula&rank_icon=github&border_radius=10&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unckelo&theme=dracula&border_radius=10" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unckelo&layout=compact&theme=dracula&border_radius=10&cache_seconds=1800" />
-</p>
