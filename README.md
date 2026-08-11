@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Waving Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,30&height=200&section=header&text=Hey%20there,%20I'm%20Ilyass aka unckelo!&fontSize=38&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,30&height=200&section=header&text=Hey%20there,%20I'm%20Ilyass+aka+unckelo!&fontSize=38&animation=twinkling&fontColor=ffffff" />
 </p>
 <!-- Animated Typing Text -->
 <p align="center">
