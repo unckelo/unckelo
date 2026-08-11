@@ -28,4 +28,3 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,postgres,docker,linux,git,bash,vscode,figma&theme=dark" />
   </a>
 </p>
-![RelaxingRobo](https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)
